@@ -1,4 +1,4 @@
-# tsjson
+# typed-json
 
 `JSON.stringify` and `JSON.parse` with better support for TS.
 
