@@ -21,4 +21,3 @@ interface Stringify {
 }
 
 export const stringify: Stringify = JSON.stringify as any;
-
